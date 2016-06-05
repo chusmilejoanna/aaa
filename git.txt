@@ -1,0 +1,11 @@
+git init //建repository
+
+git add . //追蹤檔案
+
+git commit -m "comment" 
+
+git remote add 變數(aaa) 網址
+
+git pull  aaa master
+
+git push -u aaa master
